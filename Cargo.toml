@@ -1,0 +1,11 @@
+[package]
+name = "rvm"
+version = "0.1.0"
+authors = ["Aaron Eline <aeline@umd.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = { version="1.0.104", features=["derive"]}
+serde_sexpr = "0.1.0"

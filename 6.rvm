@@ -1,0 +1,1 @@
+((code ((MOV 0 (Imm 4)) (ADD 9 (Imm 2)) (DISPNUM 0) HLT)) (labels ()))
